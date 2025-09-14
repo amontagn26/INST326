@@ -1,0 +1,18 @@
+AI Usage Journal
+Angelo Montagnino
+amontagn@terpmail.umd.edu
+Section 0302
+
+Week 1
+This week I mostly used AI to help me during my week 1 excersizes assignment.
+as it had been some time since I used python I needed the occasional hint from
+ChatGPT to help me. I did not use AI to actually anwser any of the prompts, I 
+just used it to remind me of various commands.
+
+Along with the excersizes I would turn to AI to help me with various other 
+assignments by correcting grammer or viewing alternative phrasing to make 
+my thoughts more concise.
+
+Finally I used AI to troubleshoot my VS Studio as I was having trouble getting
+GitHub working for this assignment. 
+
