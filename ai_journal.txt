@@ -26,3 +26,14 @@ commands that were new to that assignment. Along with general bug fixes.
 Besides ChatGPT grammerly was also used throughout the week to help with my 
 discussion posts or genral writing errors. 
 
+
+Week 3
+This week I similarly used AI to aid in my week 3 excersizes assignment. As we 
+were working with functions for the first time in this course I needed some help
+with bug fixes and explainations on what I was doing wrong.
+
+I also found myself using AI to aid me with grammer and help me make my writing 
+more concise. 
+
+
+
