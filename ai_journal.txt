@@ -36,4 +36,16 @@ I also found myself using AI to aid me with grammer and help me make my writing
 more concise. 
 
 
+Week 4
+This week I used AI for assistance in two of my INST326 assignments.
+
+The first asssigment I used AI for was our Week 4 discussion post. I choose to 
+ask AI to create a class for me. I found that ChatGPT misunderstood the 
+assignment and instead of giving me a Python class it gave me a school class.
+I think this is interesting and demonstrates the importance of your prompts to
+these AI companions 
+
+I also used AI to help in the week 4 excersizes assignment. I mostly just needed
+help with some general bug fixes and explainations on what I was doing wrong
+
 
