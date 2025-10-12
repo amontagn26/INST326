@@ -49,3 +49,23 @@ I also used AI to help in the week 4 excersizes assignment. I mostly just needed
 help with some general bug fixes and explainations on what I was doing wrong
 
 
+Week 5
+
+For week 5 I used AI more than I had any other week this semester
+
+I mainly used AI to help with my portion of the group project function library.
+I avoided using AI while I was creating my functions however I used ChatGPT to
+help format the docstrings in functions. ChatGPT also helped me identify general
+bug fixes and notified me if I was missing anything in my code. 
+
+ChatGPT was also used to aid me in my Week 5 excersizes. I used the resource 
+more towards the begining of the assignment, as I was still learning how to use
+property's and attributions. I soon found I didn't need as much help from AI as 
+I worked my way through the assignment and only turned to ChatGPT if I ran into
+an error. 
+
+Finally I used AI in the weekly discussion exersize. For this assignment I used
+Copilot to analyze the PlantingContainer class from lecture. I found the AI was
+not as helpful as I thought it would be and provided more superfical suggestions.
+
+
