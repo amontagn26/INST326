@@ -69,3 +69,14 @@ Copilot to analyze the PlantingContainer class from lecture. I found the AI was
 not as helpful as I thought it would be and provided more superfical suggestions.
 
 
+Week 6
+
+For week 6 I mostly used AI to aid me in the week 6 exersizes. Similarly to 
+previous weeks I used ChatGPT to help with bug fixes and generally explain how to 
+implement the content from that weeks lecture. 
+
+I also turned to ChatGPT to help me study for one of my midterms. After taking 
+the practice exams, I used ChatGPT to explain what I was getting wrong and tell
+me what areas I needed to freshen up on the most
+
+
