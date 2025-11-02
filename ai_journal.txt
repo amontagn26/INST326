@@ -80,3 +80,11 @@ the practice exams, I used ChatGPT to explain what I was getting wrong and tell
 me what areas I needed to freshen up on the most
 
 
+Week 7
+
+For this week I used AI to aid me with my INST326 assignments. When completing
+the exersizes I used ChatGPT to help with bug fixes and explain some of the 
+errors/tests that I would be implementing in the code. As a group we also used 
+AI to help us divide and plan out our Classes for the Project Assignment. We
+specifically used Claude to formulate a plan on how we should go about the next
+phase of the project. 
