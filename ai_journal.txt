@@ -88,3 +88,17 @@ errors/tests that I would be implementing in the code. As a group we also used
 AI to help us divide and plan out our Classes for the Project Assignment. We
 specifically used Claude to formulate a plan on how we should go about the next
 phase of the project. 
+
+Week 8
+
+This week I used AI for two of my INST326 assignments. The first assignment was
+the week 8 discussion question. For this question I prompted Claude 
+"I would like to create an inheritance heirarchy for a bank account tracking 
+system in python. Create a class with 2-3 subclasses for a transaction". I found 
+the results from claude lacking but fairly accurate. With additional prompting 
+and proper human additions I feel AI can help users with inheritance coding.
+
+I also used AI to aid me in my week 8 exersizes. I limited my use to bug fixes 
+and simply explainations on what I was doing wrong. I also used ChatGPT to 
+create demo for the various questions, especially the later questions which had 
+lots of inputs and moving parts.
