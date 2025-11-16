@@ -102,3 +102,17 @@ I also used AI to aid me in my week 8 exersizes. I limited my use to bug fixes
 and simply explainations on what I was doing wrong. I also used ChatGPT to 
 create demo for the various questions, especially the later questions which had 
 lots of inputs and moving parts.
+
+Week 9 
+
+This week I again used AI to aid me with work for INST326. I firstly used Claude
+as part of the discussion question of the week, prompting claude with ""Help me 
+implement polymorphic design for a bank account tracking resource. It should be 
+an abstract class with 2-3 relevent subclasses that demonstrate polymorphism. 
+Implement the abstract methods differently in each subclass". I also used ChatGPT
+to help me with bog fixes and general questions for exersize 9 assignment.
+
+I also used AI in INST327 as part of the homework assignment. The assignment 
+required me to prompt AI and work with AI to anwser the question. I then reflected
+on the experience with AI, noting that while helpful it is more benefical to do
+the work yourself. 
