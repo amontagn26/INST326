@@ -116,3 +116,11 @@ I also used AI in INST327 as part of the homework assignment. The assignment
 required me to prompt AI and work with AI to anwser the question. I then reflected
 on the experience with AI, noting that while helpful it is more benefical to do
 the work yourself. 
+
+Week 10
+
+This week I had ChatGPT aid me with the week 10 exersizes. I didn't need much 
+help and only turned to the AI when I was stuck and needed a quick bug fix. 
+Our group also asked Claude for help for our Project 3 assignment. We asked
+claude for help to organize and disperse the duties for this weeks portion of the
+project. 
