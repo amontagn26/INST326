@@ -124,3 +124,15 @@ help and only turned to the AI when I was stuck and needed a quick bug fix.
 Our group also asked Claude for help for our Project 3 assignment. We asked
 claude for help to organize and disperse the duties for this weeks portion of the
 project. 
+
+
+Week 14 
+
+This week I did not use AI much. I used ChatGPT earlier in the week to aid
+me with my writing. I would ask ChatGPT for help with phrasing and synonyms to 
+sound better. 
+
+The only other use for AI was when I used Claude to help me with a question in
+MySQL. I needed a quick anwser on how to fix an issue in the database for my 
+group project. 
+
