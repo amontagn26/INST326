@@ -126,7 +126,7 @@ claude for help to organize and disperse the duties for this weeks portion of th
 project. 
 
 
-Week 14 
+Week 12 
 
 This week I did not use AI much. I used ChatGPT earlier in the week to aid
 me with my writing. I would ask ChatGPT for help with phrasing and synonyms to 
@@ -135,4 +135,18 @@ sound better.
 The only other use for AI was when I used Claude to help me with a question in
 MySQL. I needed a quick anwser on how to fix an issue in the database for my 
 group project. 
+
+
+Week 13
+
+With the semester wrapping up, I found my AI use came in to help me make final 
+corrections to my final projects and AI me with last minute studying. AI was 
+used throughout the week to help me with possiple spelling and grammer mistakes.
+Both Claude and ChatGPT helped me proof read one on my final papers to point out
+any errors I had missed. I also used CLaude to format my annotated bigliography
+and format into APA 7 format. 
+
+I also used claude to help me with last minute bug fixes needed for the Project 
+4 assignment. Specifically I needed claudes aid in fixing our test run code. 
+
 
